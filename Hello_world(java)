@@ -1,0 +1,9 @@
+//Create class whith name Main
+public class Main
+{
+        //Create Method 
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+                //In java we use System.out.println() to display
+	}
+}
